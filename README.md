@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-复制地址：https://github.com/cooffer/stable-diffusion-webui-extensions webui 的 "扩展(extend)" 选项卡中的 "可用(available)" 选项卡中的 "扩展列表网址(Extension list URL)" 框中, 点击 "加载" 按钮加载列表。
+复制地址：https://github.com/cooffer/stable-diffusion-webui-extensions/blob/master/index.json webui 的 "扩展(extend)" 选项卡中的 "可用(available)" 选项卡中的 "扩展列表网址(Extension list URL)" 框中, 点击 "加载" 按钮加载列表。
 
 如果加载失败或者加载慢的话可以在地址前加 https://ghproxy.com/  以加速下载
 
