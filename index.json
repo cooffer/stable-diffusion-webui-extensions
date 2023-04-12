@@ -21,13 +21,18 @@
     },
     "extensions": [
         {
+            "name":sd-webui-mov2mov
+            "url": "https://ghproxy.com/https://github.com/Scholar01/sd-webui-mov2mov.git",
+            "description": "The Mov2mov plugin is compatible with Automatic1111/stable-diffusion-webui.",
+            "added":"2023-04-12",
+            "tags":["tab", "extras", "animation"]
+        },
+        {
             "name": "a1111-sd-webui-lycoris",
             "url": "https://ghproxy.com/https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris.git",
             "description": "Load lycoris: non-conventional rank adapters; in separate networks gallery tab.",
             "added": "2023-04-10",
-            "tags": [
-                "script"
-            ]
+            "tags": ["script"]
         },
         {
             "name": "Discord - Dynamic Rich Presence",
